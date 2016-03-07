@@ -1,6 +1,6 @@
 /* On assigne chaque LED à une broche de l'arduino */
-const int A = 2;
-const int B = 3;
+const int A = 9;
+const int B = 10;
 const int C = 4;
 const int D = 5;
 const int E = 6;
