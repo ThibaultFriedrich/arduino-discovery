@@ -12,8 +12,9 @@ This project is using platformio (see more [here](http://platformio.org))
 
 ## Software
 
-The project need the TSL2561 library available here: https://github.com/adafruit/TSL2561-Arduino-Library
-Copy it in the folder lib.
+The project needs the TSL2561 library available here: https://github.com/adafruit/TSL2561-Arduino-Library
+
+  cd lib && git clone https://github.com/adafruit/TSL2561-Arduino-Library
 
 ## Help
 
