@@ -2,7 +2,7 @@
 
 This system detects a box opening and emit an alarm when the box is opened and stop the alarm only when the box is closed.
 
-This project is using platefrmio (see more [here](http://platformio.org))
+This project is using platformio (see more [here](http://platformio.org))
 
 ## Hardware
 
